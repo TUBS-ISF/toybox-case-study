@@ -1,5 +1,5 @@
 # uclibc-case-study
-This repository contains the history of variability models [uclibc-project](https://github.com/wbx-github/uclibc-ng/). We aquired the history of variability models by analyzing every commit in the time from 2008-06-05 to 2020-12-24. In addition this repository contains our results of analyzing the variability of the contained model history.
+This repository contains the history of variability models [toybox](https://github.com/landley/toybox). We aquired the history of variability models by analyzing every commit in the time from 2008-06-05 to 2020-12-24. In addition this repository contains our results of analyzing the variability of the contained model history.
 
 ## Content
 
